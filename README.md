@@ -1,10 +1,14 @@
-<h2 style:"text-align:center;"> Hello world!👋 </h2>
+# Hello world!👋 
 
--I'm a Front End Developer who is looking to relocate.<br>
-👀I'm currently working on my own chat app.<br>
-I use `.php`, `.js`, `.html`, `.css`, `.svg` daily.
+- :sunny:I'm a self-taught Front End Developer who is looking to relocate.
 
-<i class="fa-solid fa-code"></i>
+## Currently I'm working on👀:
+ - My own Chat App.
+##
+- I use `.py`, `.js`, `.html`, `.css`, `.svg` daily.
 
-- 🌱 - 💞️ I’m looking to collaborate on everything related to web/mobile applications, web3 or gaming projects.
-- 📫 How to reach me: e-mail me at kaankacar02@gmail.com and let's talk!
+- 💞️ I love to use **React** 
+
+- 💬 Ping me about **design**, **coding**, **travel**, **web development**, **problem solving**
+
+- 📫 Reach me at kaankacar02@gmail.com and let's talk[!](https://youtu.be/dQw4w9WgXcQ)
