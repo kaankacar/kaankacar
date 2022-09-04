@@ -1,6 +1,6 @@
 # Hello world!👋 
 
-- :sunny:I'm a self-taught Front End Developer who is looking to relocate.
+- :sunny:I'm a self-taught developer who is looking to relocate.
 
 ## Currently I'm working on:👀
  - ✨ My own Chat App.
