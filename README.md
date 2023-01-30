@@ -13,6 +13,4 @@
 - 🔗 I am well-versed in the development of decentralized applications (dApps) using the Ethereum blockchain and its associated technologies, including smart contracts.
 - 💪 I believe that the combination of my technical skills and enthusiasm for blockchain technology makes me a valuable asset to any software development project.
 - 💼 Whether you need a full-fledged web application or a simple dApp, I am confident that I have the skills and knowledge to deliver a high-quality product that meets your needs.
-- 🚀 Let's work together to build something great.
-
 - 📫 Reach me at kaankacar02@gmail.com and let's talk[!](https://youtu.be/dQw4w9WgXcQ)
