@@ -20,4 +20,3 @@
 
 📫 Reach me at [kaankacar02@gmail.com](mailto:kaankacar02@gmail.com) for inquiries or collaboration opportunities.
 
-*I am open to networking and connecting with fellow developers to exchange knowledge and contribute to exciting projects.*
