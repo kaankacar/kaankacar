@@ -1,5 +1,3 @@
-## Kaan Kaçar - Full Stack Developer
-
 - 💻 Tech Stack:
   - JavaScript (ES6+)
   - React.js
