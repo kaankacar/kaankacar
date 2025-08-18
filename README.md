@@ -20,6 +20,7 @@
 
 ### 💼 What I’m up to
 - Serving on the **Developer Ecosystem Council** at Open Campus
+- **Devrel & business development specialist** at Rise In
 - Member of **xAlliance**  
 - Helping ecosystems grow through developer outreach & community building  
 
