@@ -10,7 +10,7 @@
 - **Winner of 5+ global hackathons**  
 - **Developer Relations** with 2+ years of experience  
 - **AI-native** — if I don’t know your tech yet, give me a few hours  
-- **Founder** of [**XTract**](#) *(coming soon)*  
+- **Founder** of [**XTract**](https://deepwiki.com/kaankacar/Xtract)   
 - Building better developer experiences for everyone  
 - Technical Business Developer *(yes, I speak both code & sales)*  
 - Open-source contributor & always happy to collaborate on new projects  
