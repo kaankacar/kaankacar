@@ -11,8 +11,7 @@
 - **AI-native** — if I don't know your tech yet, give me a few hours  
 - **Founder** of [**XTract**](https://deepwiki.com/kaankacar/Xtract)   
 - Building better developer experiences for everyone  
-- Technical Business Developer *(yes, I speak both code & sales)*  
-- Open-source contributor & always happy to collaborate on new projects  
+- Open-source contributor 
 - Based in Istanbul, Turkey  
 
 ---
@@ -22,15 +21,6 @@
 - Building in XTract, one developer tool at a time
 - Member of **xAlliance**  
 - Helping ecosystems grow through developer outreach & community building  
-
----
-
-### 🧩 Fun facts about me
-- I have fun telling Cursor to "not make mistakes"  
-- Speed over everything. Also don't want to be rude but please check out [this site](https://dontasktoask.com/)
-- A significant portion of my monthly income is spent on AI subscriptions
-- Will help you grow your startup for snacks  
-- Pull requests are my love language (and also acts of service!)  
 
 ---
 
