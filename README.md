@@ -1,4 +1,4 @@
-# Hey, I'm Kaan 👋
+# Kaan I say hi? 👋
 
 [![Twitter/X](https://img.shields.io/badge/X-@0xkaankacar-000000?logo=x&logoColor=white)](https://x.com/0xkaankacar)
 [![Email](https://img.shields.io/badge/Email-kaankacar02%40gmail.com-red?logo=gmail)](mailto:kaankacar02@gmail.com)
